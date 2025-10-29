@@ -1,0 +1,1 @@
+Dynamic Social Media Platform 🚀 | Built with React & Framer Motion for smooth UI with drag-and-drop & keyboard shortcuts. Backend: Node.js, Express, MySQL, Multer, Winston. Clean code, Atomic Design, RESTful APIs, file handling & security-focused.
